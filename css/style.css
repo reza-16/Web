@@ -1853,9 +1853,9 @@ ul {
 }
 
 .page-up {
-  position: absolute;
-  left: 50%;
-  top: -25px;
+  position: fixed;
+  left: 5%;
+  top: 925px;
   margin-left: -25px
 }
 
